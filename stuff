@@ -1,0 +1,6 @@
+echo "# OctoTotBot" >> README.md
+git init
+git add README.md
+git commit -m "Honestly Fuck You Guys"
+git remote add origin https://github.com/OctoTot/OctoTotBot.git
+git push -u origin master
